@@ -1,3 +1,9 @@
+<?php
+
+	include_once 'readfile.php';
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,10 +33,7 @@
 		}).addTo(map);
 
 		<?php
-
-		echo 'L.marker([40.714413,-74.010129]).addTo(map)
-			.bindPopup("<b>ABC Company</b><br />I need Help!").closePopup();';
-
+			readfile();
 		?>
 
 		var popup = L.popup();

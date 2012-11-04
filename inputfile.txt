@@ -1,1 +1,4 @@
 L.marker([40.7145,-74.010129]).addTo(map).bindPopup("<b>ABCXY Company</b><br />I need Help!").closePopup();
+L.marker([40.7149,-74.010129]).addTo(map).bindPopup("<b>ABCXY Company</b><br />I need Help!").closePopup();
+L.marker([40.7135,-74.010129]).addTo(map).bindPopup("<b>ABCXY Company</b><br />I need Help!").closePopup();
+L.marker([40.7155,-74.010129]).addTo(map).bindPopup("<b>ABCXY Company</b><br />I need Help!").closePopup();
