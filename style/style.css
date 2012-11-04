@@ -1,0 +1,21 @@
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "nevis";
+}
+a, p {
+	font-family: Aller;
+	font-weight: 300;
+}
+.hashtag {
+	color: #e32f3c;
+}
+.hashtag:hover {
+	color: #d54040;
+}
+.top {
+	border-bottom: 1px solid #ccc;
+}
+#map { height: 500px; }
